@@ -1,6 +1,6 @@
 # Vibrant React-VR Test
 
-> A React-VR test project
+> A React-VR test project - See [Demo](https://co851002.github.io/reactVR/bundle/) 
 
 ## Build Setup
 
@@ -18,5 +18,6 @@ npm start
 npm run bundle
 
 ```
+
 
 For detailed explanation on how things work, checkout the ReactVR docs [guide](https://facebookincubator.github.io/react-vr/)
