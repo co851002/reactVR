@@ -1,6 +1,6 @@
 # Vibrant React-VR Test
 
-> A React-VR test project - See [Demo](https://co851002.github.io/reactVR/bundle/) 
+> A React-VR test project - See [Demo](https://co851002.github.io/reactVR/bundle/)
 
 ## Build Setup
 
@@ -13,6 +13,9 @@ npm install
 
 # server available at localhost:8081/vr/
 npm start
+
+# server available at localhost:8081/vr/
+npm open will open the project at http://localhost:8081/vr/
 
 # build for production without minification
 npm run bundle

@@ -1,6 +1,6 @@
 {
   "name": "reactVR",
-  "description":"Vibrant React-VR Test",
+  "description": "Vibrant React-VR Test",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,17 +9,18 @@
     "open": "node -e \"require('xopen')('http://localhost:8081/vr/')\""
   },
   "dependencies": {
-    "ovrui": "~0.1.0",
+    "diff": "*",
+    "md5-file": "*",
     "ovr-audio": "~0.1.0",
     "ovr-video": "~0.1.0",
+    "ovrui": "~0.1.0",
     "react": "15.4.1",
     "react-native": "0.42.0",
-    "three": "^0.80.1",
+    "react-timer-mixin": "^0.13.3",
     "react-vr": "~0.1.0",
     "react-vr-web": "~0.1.0",
-    "xopen": "1.0.0",
-    "diff" : "*",
-    "request" : "*",
-    "md5-file" : "*"
+    "request": "*",
+    "three": "^0.80.1",
+    "xopen": "1.0.0"
   }
 }
